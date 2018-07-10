@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 920px;
+    margin: 0 auto;
+}
+h1, h2, h3 {
+    text-align: center;
+    padding: 15px 0;
+}
+.orangeHtml{
+    color: orange;
+}
+.ordinary {
+    color: red;
+    font: 12pt italic;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.
+p span{
+    font: 16pt bold;
+}
+ul{
+    list-style: none;
+}
+ol li {
+    margin-left: 20px;
+}
+.sect li:before{
+    content: "\00A7         ";
+}
+.dot li:before{
+    content: ".        ";
+
+}
+.cir{
+    margin-left: 18px;
+    list-style: circle;
+}

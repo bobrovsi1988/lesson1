@@ -1,0 +1,11 @@
+#p1 {
+    color: green;
+    font: 22pt normal small-caption;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+#p2{
+    color: blue;
+    font: 8pt ;
+    text-decoration: underline;
+    font-family: "courier new", "times new roman", monospace;
+}
